@@ -6,7 +6,8 @@
     "typings": "types/index.d.ts",
     "files": [
         "dist/vue-signalr.js",
-        "src"
+        "src",
+        "types/*.d.ts"
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
